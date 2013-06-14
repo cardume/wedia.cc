@@ -36,6 +36,7 @@ Todos os itens deverão ser publicados colaborativamente.
 - Upvote/downvote armazenando metadado cronológico
 - Share (Facebook/Twitter/G+)
 - Itens relacionados
+- Armazenamento de metadados via API ou SCRAP
 - Imagem destacada (resgatado via API ou scrap)
 - Data de ocorrência (ou data de publicação)
 - Tags
