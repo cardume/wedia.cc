@@ -10,23 +10,23 @@ Recursos
 
 Todos os itens deverão ser publicados colaborativamente.
 
-- Vídeo
+- #### Vídeo
  - YouTube
  - Vimeo
  - Flickr
  
-- Imagem
+- #### Imagem
  - Upload
  - Instagram
  - Flickr
  - Picasa
  
-- Link
+- #### Link
  - Blogs
  - Reportagens
  - ....
  
-- Texto
+- #### Texto
  - Relato
  - Denúncia
  
