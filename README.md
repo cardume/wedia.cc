@@ -6,36 +6,38 @@ Ferramenta de cobertura colaborativa
 Recursos
 --------
 
-### Itens publicados (posts)
+### Itens publicáveis (posts)
 
- - Vídeo
- - - YouTube
- - - Vimeo
- - - Flickr
+Todos os itens deverão ser publicados colaborativamente.
+
+- Vídeo
+ - YouTube
+ - Vimeo
+ - Flickr
  
- - Imagem
- - - Upload
- - - Instagram
- - - Flickr
- - - Picasa
+- Imagem
+ - Upload
+ - Instagram
+ - Flickr
+ - Picasa
  
- - Texto
- - - Relato
- - - Denúncia
+- Link
+ - Blogs
+ - Reportagens
+ - ....
  
- - Link
- - - Blogs
- - - Reportagens
- - - ....
+- Texto
+ - Relato
+ - Denúncia
  
- ### Ferramentas em torno dos itens
+### Ferramentas em torno dos itens
  
-  - Comentários
-  - Upvote/downvote armazenando metadado cronológico
-  - Share (Facebook/Twitter/G+)
-  - Itens relacionados
-  - Imagem destacada
-  - Data de ocorrência (ou data de publicação)
+- Comentários
+- Upvote/downvote armazenando metadado cronológico
+- Share (Facebook/Twitter/G+)
+- Itens relacionados
+- Imagem destacada (resgatado via API ou scrap)
+- Data de ocorrência (ou data de publicação)
 
 Ranking de relevância
 ---------------------
