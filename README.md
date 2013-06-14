@@ -69,21 +69,23 @@ Conceitos do sistema
 Telas
 -----
 
-#### Conteúdo fixo (cabeçalho/rodapé)
+### Conteúdo fixo (cabeçalho/rodapé)
 
 - Título
-- Menu
-- - Publicações
-- - - Tempo real (ordem cronológica com updates automáticos)
-- - - Vídeos
-- - - Imagens
-- - - Links
-- - - Relatos
-- - - Denúncias
-- - Mapa
-- - Sobre
-- - Contato
+- [Menu](#menu)
 - Cadastro de usuário/enviar publicação
+
+#### Menu
+- Publicações
+ - Tempo real (ordem cronológica com updates automáticos)
+ - Vídeos
+ - Imagens
+ - Links
+ - Relatos
+ - Denúncias
+- Mapa
+- Sobre
+- Contato
 
 ### Página inicial
 
@@ -98,3 +100,8 @@ Telas
 - Destaque para downvote/upvote
 - Itens relacionados
 - Tags
+
+### Mapa
+
+- Pontos mapeados
+- Lateral com listagem cronológica
