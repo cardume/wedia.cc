@@ -38,6 +38,13 @@ Todos os itens deverão ser publicados colaborativamente.
 - Itens relacionados
 - Imagem destacada (resgatado via API ou scrap)
 - Data de ocorrência (ou data de publicação)
+- Tags
+- Mapa (lat/lng resgatado via API)
+
+
+### Cadastro de usuários
+
+Via redes sociais (facebook/twitter/google) ou manual, via email.
 
 Ranking de relevância
 ---------------------
@@ -55,6 +62,39 @@ Ranking de relevância
 Conceitos do sistema
 --------------------
 
- - Os destaques serão definidos pelo algorítmo do ranking de relevância. Não haverá moderação.
- - As publicações duplicadas contarão como um importante metadado a entrar no ranking de relevância, mantendo a publicação única.
- - Os metadados da publicação linkada (vídeo, link e image) deverá ser resgatado via API da o respectivo serviço ou metadados de cabeçalho.
+- Os destaques serão definidos pelo algorítmo do ranking de relevância. Não haverá moderação.
+- As publicações duplicadas contarão como um importante metadado a entrar no ranking de relevância, mantendo a publicação única.
+- Os metadados da publicação linkada (vídeo, link e image) deverá ser resgatado via API da o respectivo serviço ou metadados de cabeçalho.
+
+Telas
+-----
+
+#### Conteúdo fixo (cabeçalho/rodapé)
+
+- Título
+- Menu
+- - Publicações
+- - - Tempo real (ordem cronológica com updates automáticos)
+- - - Vídeos
+- - - Imagens
+- - - Links
+- - - Relatos
+- - - Denúncias
+- - Mapa
+- - Sobre
+- - Contato
+- Cadastro de usuário/enviar publicação
+
+### Página inicial
+
+- Apresentação de publicações curadas via ranking de relevância
+- Últimas publicadas
+
+### Página única da publicação
+
+- Breadcrumb
+- Máximo de conteúdo na íntegra possível
+- Comentários
+- Destaque para downvote/upvote
+- Itens relacionados
+- Tags
